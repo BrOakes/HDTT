@@ -20,7 +20,9 @@ const temp = new ToolData('saw', '2445', '199.00', '4.7', '249.99')
 
 console.log(temp.allData);
 
-const 
+//https://www.homedepot.com/b/Tools/N-5yc1vZc1xyZzv?experienceName=default&Nao=0&Ns=None
+//https://www.homedepot.com/b/Tools/N-5yc1vZc1xyZzv?experienceName=default&Nao=24&Ns=None
+//https://www.homedepot.com/b/Tools/N-5yc1vZc1xyZzv?experienceName=default&Nao=48&Ns=None
 
 // request({
 // 	uri: "https://www.homedepot.com/b/Tools/Milwaukee/Special-Values/N-5yc1vZc1xyZ7Zzv",
